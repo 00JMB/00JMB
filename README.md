@@ -2,7 +2,7 @@
 
 <h2>Here are some of my Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket: Creating a Ticketing System for Help Desk</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JBeezy888/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JBeezy888/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Demo](https://github.com/JBeezy888/osTicket-Ticket-Lifecycle-Examples)
