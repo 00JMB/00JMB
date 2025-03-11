@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JBeezy888/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Demo](https://github.com/JBeezy888/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JBeezy888/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/00JMB/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/00JMB/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>Virtual Private Networks</b>
   - [Setting up a VPN on a Virtual Machine](https://github.com/00JMB/Setting-up-a-VPN-on-a-Virtual-Machine)
