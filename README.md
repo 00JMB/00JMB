@@ -1,6 +1,6 @@
-<h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT Specialist </h1>
+<h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT specialist </h1>
 
-<h2>Here are some of my Information Technology Projects:</h2>
+<h2>Here are some of my personal projects:</h2>
 
 - <b>osTicket: Creating a Ticketing System for Help Desk</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JBeezy888/osticket-prereqs)
