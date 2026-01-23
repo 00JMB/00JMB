@@ -12,5 +12,5 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/00JMB/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>Virtual Private Networks</b>
   - [Setting up a VPN on a Virtual Machine](https://github.com/00JMB/Setting-up-a-VPN-on-a-Virtual-Machine)
-- <b>OS Switching</b>
+- <b>Operating Systems (OS)</b>
   - [Leaving Windows and Switching to Linux (Ubuntu)](https://github.com/00JMB/From-Windows-to-Linux/tree/main)
