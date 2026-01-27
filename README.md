@@ -1,4 +1,4 @@
-<h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT specialist </h1>
+<h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT specialist </h1> 
 
 <h2>Here are some of my personal projects:</h2>
 
@@ -15,7 +15,9 @@
 - <b>Operating Systems (OS)</b>
   - [Leaving Windows and Switching to Linux (Ubuntu)](https://github.com/00JMB/From-Windows-to-Linux/tree/main)
 
- <p align="left">
+<hr align="center" width="80%">
+
+<p align="center">
   <a href="https://tryhackme.com/p/00JMB">
     <img src="https://tryhackme-badges.s3.amazonaws.com/00JMB.png" alt="TryHackMe Badge" />
   </a>
