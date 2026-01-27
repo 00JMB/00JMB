@@ -1,11 +1,5 @@
 <h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT specialist </h1>
 
-<p align="center">
-  <a href="https://tryhackme.com">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4182178" />
-  </a>
-</p>
-
 <h2>Here are some of my personal projects:</h2>
 
 - <b>osTicket: Creating a Ticketing System for Help Desk</b>
@@ -20,3 +14,9 @@
   - [Setting up a VPN on a Virtual Machine](https://github.com/00JMB/Setting-up-a-VPN-on-a-Virtual-Machine)
 - <b>Operating Systems (OS)</b>
   - [Leaving Windows and Switching to Linux (Ubuntu)](https://github.com/00JMB/From-Windows-to-Linux/tree/main)
+
+ <p align="left">
+  <a href="https://tryhackme.com/p/00JMB">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/00JMB.png" alt="TryHackMe Badge" />
+  </a>
+</p>
