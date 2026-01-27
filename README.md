@@ -1,6 +1,10 @@
 <h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT specialist </h1>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4182178" style='border:none;'></iframe>
+<p align="center">
+  <a href="https://tryhackme.com">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4182178" />
+  </a>
+</p>
 
 <h2>Here are some of my personal projects:</h2>
 
