@@ -15,7 +15,7 @@
 - <b>Operating Systems (OS)</b>
   - [Leaving Windows and Switching to Linux (Ubuntu)](https://github.com/00JMB/From-Windows-to-Linux/tree/main)
 
-<hr align="center" width="80%">
+<hr style="border-top: 1px dotted #00ff9c; width: 70%;">
 
 <p align="center">
   <a href="https://tryhackme.com/p/00JMB">
