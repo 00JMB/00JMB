@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/00JMB/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 - <b>Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/00JMB/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-- <b>Virtual Private Networks</b>
+  - <b>Virtual Private Networks</b>
   - [Setting up a VPN on a Virtual Machine](https://github.com/00JMB/Setting-up-a-VPN-on-a-Virtual-Machine)
 - <b>Operating Systems (OS)</b>
   - [Leaving Windows and Switching to Linux (Ubuntu)](https://github.com/00JMB/From-Windows-to-Linux/tree/main)
