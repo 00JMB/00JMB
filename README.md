@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Active Directory Infastructure: Setting up Domain Controller as a DNS Server for a Client Machine](https://github.com/00JMB/Active-Directory-Infrastructure-Setup-Configure-a-Domain-Controller-as-a-DNS-Server)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/00JMB/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/00JMB/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+- <b>Networking</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/00JMB/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>Virtual Private Networks</b>
   - [Setting up a VPN on a Virtual Machine](https://github.com/00JMB/Setting-up-a-VPN-on-a-Virtual-Machine)
 - <b>Operating Systems (OS)</b>
