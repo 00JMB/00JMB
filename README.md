@@ -1,4 +1,4 @@
-<h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT specialist </h1> 
+<h1> Hi, I'm Jovahn, an <a href="https://www.linkedin.com/in/jovahn-benitez-1343a434b/">IT Specialist </h1> 
 
 <h2>Here are some of my personal projects:</h2>
 
